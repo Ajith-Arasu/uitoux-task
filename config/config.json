@@ -1,0 +1,9 @@
+{
+    "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "car_service_db",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
